@@ -4,9 +4,9 @@ This is our Pytorch implementation for DISAM ([arxiv](https://arxiv.org/pdf/2009
 
 
 
-<img src='img/SAM.png' align="center" width=666 alt="Text alternative when image is not available">
+<img src='img/overview.png' align="center" width=666 alt="Text alternative when image is not available">
 <br><br>
-<img src='img/trip_SAM.png' width=666 alt="Text alternative when image is not available">
+<img src='img/SAM.png' width=666 alt="Text alternative when image is not available">
 
 
 
@@ -88,13 +88,13 @@ Our [coarse-only](https://www.visuallocalization.net/details/13383/) and [fine-o
 
 If you use this code in your own work, please cite:
 
-H. Hu, H. Wang, Z. Liu, and W. Chen
+H. Hu, Z. Qiao, H. Wang, Z. Liu, and W. Chen
 ”[Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization](https://arxiv.org/pdf/2009.07719.pdf)”,  
 
 ```
 @misc{hu2020domaininvariant,
     title={Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization},
-    author={Hanjiang Hu and Hesheng Wang and Zhe Liu and Weidong Chen},
+    author={Hanjiang Hu and Zhijian Qiao and Hesheng Wang and Zhe Liu and Weidong Chen},
     year={2020},
     eprint={2009.07719},
     archivePrefix={arXiv},
