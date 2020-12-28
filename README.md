@@ -1,6 +1,6 @@
 # DISAM: Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization
 
-This is our Pytorch implementation for DISAM ([arxiv](https://arxiv.org/pdf/2009.07719.pdf)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) 
+This is our Pytorch implementation for DISAM ([paper](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) in IROS 2019. The journal paper has been accepted and will be published in IEEE/CAA Journal of Automation Sinica.
 
 
 
@@ -89,7 +89,7 @@ Our [coarse-only](https://www.visuallocalization.net/details/13383/) and [fine-o
 If you use this code in your own work, please cite:
 
 H. Hu, H. Wang, Z. Liu, and W. Chen
-”[Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization](https://arxiv.org/pdf/2009.07719.pdf)”,  
+”[Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf)”,  
 
 ```
 @misc{hu2020domaininvariant,
