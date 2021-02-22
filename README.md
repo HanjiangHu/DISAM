@@ -1,6 +1,6 @@
 # DISAM: Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization
 
-This is our Pytorch implementation for DISAM ([paper](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) in IROS 2019. The journal paper has been accepted and will be published in IEEE/CAA Journal of Automatica Sinica.
+This is our Pytorch implementation for DISAM ([paper](https://ieeexplore.ieee.org/document/9358457)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) in IROS 2019. The journal paper has been published in IEEE/CAA Journal of Automatica Sinica.
 
 
 
@@ -89,17 +89,18 @@ Our [coarse-only](https://www.visuallocalization.net/details/13383/) and [fine-o
 If you use this code in your own work, please cite:
 
 H. Hu, H. Wang, Z. Liu, and W. Chen
-”[Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf)”,  
+”[Domain-invariant Similarity Activation Map Metric Learning for  Retrieval-based Long-term  Visual Localization](https://ieeexplore.ieee.org/document/9358457)”,  
 
 ```
-@misc{hu2020domaininvariant,
-    title={Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization},
-    author={Hanjiang Hu and Hesheng Wang and Zhe Liu and Weidong Chen},
-    year={2020},
-    eprint={2009.07719},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+@ARTICLE{hu2021domain,
+  author={H. {Hu} and H. {Wang} and Z. {Liu} and W. {Chen}},
+  journal={IEEE/CAA Journal of Automatica Sinica}, 
+  title={Domain-invariant similarity activation map metric learning for retrieval-based long-term visual localization}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/JAS.2021.1003907}}
 ```
 
 H. Hu, H. Wang, Z. Liu, C. Yang, W. Chen, and L. Xie
