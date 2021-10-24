@@ -1,6 +1,6 @@
 # DISAM: Domain-invariant Similarity Activation Map Contrastive Learning for  Retrieval-based Long-term  Visual Localization
 
-This is our Pytorch implementation for DISAM ([paper](https://ieeexplore.ieee.org/document/9358457)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) in IROS 2019. The journal paper has been published in IEEE/CAA Journal of Automatica Sinica.
+This is our Pytorch implementation for DISAM ([paper](https://arxiv.org/abs/2009.07719)) as an extended version of DIFL-FCL ([paper](https://ieeexplore.ieee.org/document/8968047),[code](https://github.com/HanjiangHu/DIFL-FCL)) in IROS 2019. The journal paper has been published in IEEE/CAA Journal of Automatica Sinica.
 
 
 
